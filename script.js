@@ -80,14 +80,21 @@ const processarEscolha = (escolha) => {
   } else if (escolha === "6" || escolha.toLowerCase() === "contato") {
     contentElement.innerHTML = `
                 CONTATO:<br><br>
-                Front End Developer - JOÃO ANTÔNIO CUCHERA DE CASTRO<br>
-                <a href="mailto:joaoaccastro@gmail.com"  target="_blank" style="color:#00ff00; text-decoration: none;">  ⇝ Envie-me um e-mail</a>
+                JOÃO ANTÔNIO CUCHERA DE CASTRO | Front End Developer 
+                <br>
+                <br>
+                <a href="mailto:joaoaccastro@gmail.com"  target="_blank" style="color:#00ff00; text-decoration: none;">  ⇝ E-mail</a>
+                <br>
                 <br>
                 <a href="https://wa.me/5511972788335?text=Olá, peguei seu contato no link do seu portfólio dev"  target="_blank" style="color:#00ff00; text-decoration: none;"> ⇝ WhatsApp</a>
                 <br>
+                <br>
                 <a href="https://www.linkedin.com/in/joao-ac-castro/" target="_blank" style="color:#00ff00; text-decoration: none;"> ⇝ LinkedIn</a>
                 <br>
+                <br>
                 <a href="https://github.com/joaoacastro" target="_blank" style="color:#00ff00; text-decoration: none;"> ⇝ Github</a>
+                <br>
+                <br>
                 `;
   } else if (escolha === "7" || escolha.toLowerCase() === "sair") {
     contentElement.innerHTML =
