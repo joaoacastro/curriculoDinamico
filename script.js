@@ -20,7 +20,10 @@ const processarEscolha = (escolha) => {
 
   if (escolha === "1" || escolha.toLowerCase() === "sobre") {
     contentElement.innerHTML =
-      "SOBRE: <br> <br>Sou um profissional versátil e apaixonado pela integração entre tecnologia, design e comunicação. Com uma base sólida em Produção Audiovisual pelo Centro Universitário Senac e em constante aprimoramento na área de Desenvolvimento de Sistemas, tenho experiência em ferramentas como HTML, CSS, JavaScript, e recentemente concluí um curso de Acelerador de Carreira com foco em Power BI, ampliando minhas habilidades em análise e visualização de dados. Estou em busca de oportunidades que me permitam expandir meus horizontes e aplicar minhas habilidades em desenvolvimento de sistemas e análise de dados de forma criativa e inovadora. Meu portfólio reflete minha dedicação e paixão por cada área em que atuo, especialmente em soluções tecnológicas e análise de dados. Estou entusiasmado para colaborar em projetos desafiadores e contribuir com minha experiência e criatividade.<br><br>";
+      `SOBRE: <br> <br>
+      <p style="text-align: justify">
+      Sou um profissional versátil e apaixonado pela integração entre tecnologia, design e comunicação. Com uma base sólida em Produção Audiovisual pelo Centro Universitário Senac e em constante aprimoramento na área de Desenvolvimento de Sistemas, tenho experiência em ferramentas como HTML, CSS, JavaScript, e recentemente concluí um curso de Acelerador de Carreira com foco em Power BI, ampliando minhas habilidades em análise e visualização de dados. Estou em busca de oportunidades que me permitam expandir meus horizontes e aplicar minhas habilidades em desenvolvimento de sistemas e análise de dados de forma criativa e inovadora. Meu portfólio reflete minha dedicação e paixão por cada área em que atuo, especialmente em soluções tecnológicas e análise de dados. Estou entusiasmado para colaborar em projetos desafiadores e contribuir com minha experiência e criatividade.
+      </p><br><br>`;
   } else if (escolha === "2" || escolha.toLowerCase() === "cursos") {
     contentElement.innerHTML = `
     CURSOS:<br><br>
@@ -28,10 +31,10 @@ const processarEscolha = (escolha) => {
     Empowerdata | Profº. Lorennzo Rodrigues e Profª. Julia Melo | 2024)<br><br>
 
     Curso Web Moderno Completo (97,5h)<br>
-    Udemy | Cod3r Cursos Online - Leonardo Moura Leitao | 2024<br><br>
+    Udemy | Cod3r Cursos Online - Leonardo Moura Leitao | 2024 | Concluído<br><br>
 
     Modelagem 3D no Fusion 360 Autodesk (12h)<br>
-    Udemy | Professor Audrey Novelli Gonçalves | 2024<br><br>
+    Udemy | Professor Audrey Novelli Gonçalves | 2024 | Concluído<br><br>
 
     Linguagem de programação com foco em React (20h)<br>
     Programação em linguagem JavaScript e com foco em CSS (20h)<br>
@@ -42,8 +45,9 @@ const processarEscolha = (escolha) => {
   } else if (escolha === "3" || escolha.toLowerCase() === "formação") {
     contentElement.innerHTML = `
     FORMAÇÃO:<br><br>
-    Graduação em Produção Audiovisual - Centro Universitário Senac (Concluído)<br>
-    Graduação Análise e Desenvolvimento de Sistemas - Faculdade Anhembi Morumbi (1º Semestre)<br><br>`;
+    Graduação em Produção Audiovisual<br>Centro Universitário Senac (Concluído)<br>
+    <br>
+    Graduação Análise e Desenvolvimento de Sistemas<br>Faculdade Anhembi Morumbi (1º Semestre)<br><br>`;
   } else if (escolha === "4" || escolha.toLowerCase() === "idiomas") {
     contentElement.innerHTML =
       "IDIOMAS<br><br>- Inglês: Intermediário<br>- Espanhol: Básico<br><br>";
@@ -76,14 +80,14 @@ const processarEscolha = (escolha) => {
   } else if (escolha === "6" || escolha.toLowerCase() === "contato") {
     contentElement.innerHTML = `
                 CONTATO:<br><br>
-                JOÃO ANTÔNIO CUCHERA DE CASTRO<br>
-                <a href="mailto:joaoaccastro@gmail.com"  target="_blank" style="color:#00ff00">Envie-me um e-mail</a>
+                Front End Developer - JOÃO ANTÔNIO CUCHERA DE CASTRO<br>
+                <a href="mailto:joaoaccastro@gmail.com"  target="_blank" style="color:#00ff00; text-decoration: none;"> • Envie-me um e-mail</a>
                 <br>
-                <a href="https://wa.me/5511972788335?text=Olá, peguei seu contato no link do seu portfólio dev"  target="_blank" style="color:#00ff00">WhatsApp</a>
+                <a href="https://wa.me/5511972788335?text=Olá, peguei seu contato no link do seu portfólio dev"  target="_blank" style="color:#00ff00; text-decoration: none;"> • WhatsApp</a>
                 <br>
-                <a href="https://www.linkedin.com/in/joao-ac-castro/" target="_blank" style="color:#00ff00">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/joao-ac-castro/" target="_blank" style="color:#00ff00; text-decoration: none;"> • LinkedIn</a>
                 <br>
-                <a href="https://github.com/joaoacastro" target="_blank" style="color:#00ff00">Github</a>
+                <a href="https://github.com/joaoacastro" target="_blank" style="color:#00ff00; text-decoration: none;"> • Github</a>
                 `;
   } else if (escolha === "7" || escolha.toLowerCase() === "sair") {
     contentElement.innerHTML =
