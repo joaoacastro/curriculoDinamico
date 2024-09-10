@@ -1,7 +1,3 @@
-Aqui está uma sugestão criativa para o arquivo README:
-
----
-
 # Portfolio Terminal
 
 Bem-vindo ao **Portfolio Terminal**, uma experiência interativa e minimalista inspirada nos antigos terminais de computador. Este projeto foi criado com HTML, CSS e JavaScript para apresentar meu portfólio de maneira única e envolvente.
