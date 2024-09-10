@@ -5,13 +5,13 @@ const inputElement = document.getElementById("input");
 const exibirMenu = () => {
   menuElement.innerHTML = `
 Menu:<br>
-        1. Sobre<br>
-        2. Cursos<br>
-        3. Formação<br>
-        4. Idiomas<br>
-        5. Skills<br>
-        6. Contato<br>
-        7. Sair<br><br>`;
+        1. Sobre;<br>
+        2. Cursos;<br>
+        3. Formação;<br>
+        4. Idiomas;<br>
+        5. Skills;<br>
+        6. Contato;<br>
+        7. Sair;<br><br>`;
 };
 
 const processarEscolha = (escolha) => {
