@@ -1,0 +1,47 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1e1e1e;
+    color: #00ff00;
+    margin: 50px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+.terminal {
+    border-radius: 5px;
+    background-color: #2d2d2d;
+    padding: 15px;
+    width: 800px;
+    max-width: 100%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.output {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    padding: 10px;
+    color: #00ff00;
+    font-size: 14px;
+    /* white-space: pre-wrap; */
+    min-height: 300px;
+}
+.input {
+    width: 90%;
+    padding: 10px;
+    background-color: #333;
+    border: none;
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+footer {
+    display: flex;
+    justify-content: end;
+    color: aliceblue;
+    position: fixed;   /* Mantém o footer fixo */
+    bottom: 0;         /* Posiciona na parte inferior */
+    width: 100%;       /* Faz com que o footer ocupe toda a largura da página */
+    background-color: black; /* Opcional: cor de fundo para o footer */
+    padding: 10px;     /* Opcional: espaço interno */
+}
