@@ -21,7 +21,6 @@ body {
 
 /* Estilo da área de output */
 .output {
-    margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
     padding: 10px;
@@ -44,7 +43,7 @@ body {
 /* Estilo do footer */
 footer {
     display: flex;
-    justify-content: end;
+    justify-content: center;
     color: aliceblue;
     position: fixed;   /* Mantém o footer fixo */
     bottom: 0;         /* Posiciona na parte inferior */
