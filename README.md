@@ -1,17 +1,17 @@
 # Currículo Dinâmico
 
-Bem-vindo ao **Portfolio Terminal**, uma experiência interativa e minimalista inspirada nos antigos terminais de computador. Este projeto foi criado com HTML, CSS e JavaScript para apresentar meu portfólio de maneira única e envolvente.
+Bem-vindo ao **Currículo Dinâmico**, uma experiência interativa e minimalista inspirada nos antigos terminais de computador. Este projeto foi criado com HTML, CSS e JavaScript para apresentar meu portfólio de maneira única e envolvente.
 
 ## 🚀 Link do Projeto
 Você pode experimentar o programa online [aqui](https://joaoacastro.github.io/portfolio/).
 
 ## 🖥️ Sobre o Projeto
-Este portfólio foi pensado para profissionais e entusiastas que apreciam uma interface limpa e funcional. Com um design que remete aos terminais de comando dos anos 80, você poderá explorar informações sobre mim, minha formação, habilidades e redes sociais de forma dinâmica e simples.
+Este currículo foi pensado para profissionais e entusiastas que apreciam uma interface limpa e funcional. Com um design que remete aos terminais de comando dos anos 80, você poderá explorar informações sobre mim, minha formação, habilidades e redes sociais de forma dinâmica e simples.
 
 ### Funcionalidades:
 
 - Exibição interativa de menus.
-- Navegação por diferentes seções do portfólio.
+- Navegação por diferentes seções do currículo.
 - Exibição de informações em uma interface de terminal retro.
 - Responsivo e otimizado para diversas resoluções, incluindo dispositivos móveis como o iPhone 12.
 
@@ -22,7 +22,7 @@ Este portfólio foi pensado para profissionais e entusiastas que apreciam uma in
 - **JavaScript**: Lógica de navegação interativa e exibição de conteúdo dinâmico.
 
 ## 📱 Design Responsivo
-O portfólio é totalmente responsivo, ajustando-se perfeitamente para telas de smartphones, como o iPhone 12, proporcionando uma experiência agradável em dispositivos móveis e desktops.
+O currículo é totalmente responsivo, ajustando-se perfeitamente para telas de smartphones, como o iPhone 12, proporcionando uma experiência agradável em dispositivos móveis e desktops.
 
 ---
 
