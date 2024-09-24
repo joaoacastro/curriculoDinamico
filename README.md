@@ -3,7 +3,7 @@
 Bem-vindo ao **Currículo Dinâmico**, uma experiência interativa e minimalista inspirada nos antigos terminais de computador. Este projeto foi criado com HTML, CSS e JavaScript para apresentar meu portfólio de maneira única e envolvente.
 
 ## 🚀 Link do Projeto
-Você pode experimentar o programa online [aqui](https://joaoacastro.github.io/portfolio/).
+Você pode experimentar o programa online [aqui](https://joaoacastro.github.io/curriculoDinamico/).
 
 ## 🖥️ Sobre o Projeto
 Este currículo foi pensado para profissionais e entusiastas que apreciam uma interface limpa e funcional. Com um design que remete aos terminais de comando dos anos 80, você poderá explorar informações sobre mim, minha formação, habilidades e redes sociais de forma dinâmica e simples.
