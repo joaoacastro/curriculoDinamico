@@ -78,6 +78,10 @@ const processarEscolha = (escolha) => {
   } else if (escolha === "3" || escolha.toLowerCase() === "courses") {
     contentElement.innerHTML = `
     COURSES:<br><br>
+    Bootcamp Ri Happy Group - Front End from Scratch (75h)<br>
+    DIO Plataform | 2024 | Completed<br><br>
+
+
     Career Accelerator Immersion with Microsoft Power BI (10h)<br>
     Empowerdata | Prof. Lorennzo Rodrigues and Prof. Julia Melo | 2024 | Completed<br><br>
 
