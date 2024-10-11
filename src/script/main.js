@@ -4,9 +4,12 @@ const inputElement = document.getElementById("input");
 
 const exibirMenu = () => {
   menuElement.innerHTML = `
-        <h1 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=40&pause=1000&color=15F72A&center=true&vCenter=true&width=735&height=80&lines=Hi+there!+👋;You+can+call+me+João+Castro;Welcome+to+my+Dinamic Resume+😁" alt="Typing SVG" /></a>
-        </h1>
+        <div align="center">
+          <a href="https://git.io/typing-svg">
+          <img class="img-large" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=40&pause=1000&color=15F72A&center=true&vCenter=true&width=735&height=80&lines=Hi+there!+👋;You+can+call+me+João+Castro;Welcome+to+my+Dinamic+Resume+😁" alt="Large IMG" />
+          <img class="img-small" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=15F72A&center=true&vCenter=true&width=200&lines=Hi+there!+%F0%9F%91%8B;You+can+call+me;Jo%C3%A3o+Castro;Welcome+to+my;Dinamic+Resume+%F0%9F%98%81" alt="Typing SVG" />
+          </a>
+        </div>
         <br>      
         <span class="menu-item" data-escolha="0">Choose an option below:
         <br>

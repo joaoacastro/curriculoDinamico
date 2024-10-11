@@ -1,51 +1,51 @@
-# Currículo Dinâmico
+# Dynamic Resume
 
-Bem-vindo ao **Currículo Dinâmico**, uma experiência interativa e minimalista inspirada nos antigos terminais de computador. Este projeto foi criado com HTML, CSS e JavaScript para apresentar meu portfólio de maneira única e envolvente.
+Welcome to *Dynamic Resume*, an interactive and minimalist experience inspired by old computer terminals. This project was created with HTML, CSS, and JavaScript to showcase my portfolio in a unique and engaging way.
 
-## 🚀 Link do Projeto
-Você pode experimentar o programa online [aqui](https://joaoacastro.github.io/curriculoDinamico/).
+## 🚀 Project Link
+You can try the program online [here](https://joaoacastro.github.io/curriculoDinamico/).
 
-## 🖥️ Sobre o Projeto
-Este currículo foi pensado para profissionais e entusiastas que apreciam uma interface limpa e funcional. Com um design que remete aos terminais de comando dos anos 80, você poderá explorar informações sobre mim, minha formação, habilidades e redes sociais de forma dinâmica e simples.
+## 🖥️ About the Project
+This resume was designed for professionals and enthusiasts who appreciate a clean and functional interface. With a design reminiscent of 80s command terminals, you can explore information about me, my education, skills, and social networks dynamically and simply.
 
-### Funcionalidades:
+### Features:
 
-- Exibição interativa de menus.
-- Navegação por diferentes seções do currículo.
-- Exibição de informações em uma interface de terminal retro.
-- Responsivo e otimizado para diversas resoluções, incluindo dispositivos móveis como o iPhone 12.
+- Interactive menu display.
+- Navigation through different sections of the resume.
+- Display of information in a retro terminal interface.
+- Responsive and optimized for various resolutions, including mobile devices like the iPhone 12.
 
-### Ferramentas e Tecnologias Utilizadas:
+### Tools and Technologies Used:
 
-- **HTML**: Estrutura da aplicação.
-- **CSS**: Design minimalista, responsividade e a mágica da interface de terminal.
-- **JavaScript**: Lógica de navegação interativa e exibição de conteúdo dinâmico.
+- *HTML*: Application structure.
+- *CSS*: Minimalist design, responsiveness, and the magic of the terminal interface.
+- *JavaScript*: Logic for interactive navigation and dynamic content display.
 
-## 📱 Design Responsivo
-O currículo é totalmente responsivo, ajustando-se perfeitamente para telas de smartphones, como o iPhone 12, proporcionando uma experiência agradável em dispositivos móveis e desktops.
-
----
-
-### Como Funciona:
-
-1. Ao acessar a página, você será saudado com um menu de opções.
-2. Basta digitar o número ou o nome de uma seção para navegar pelo conteúdo.
-3. Explore minhas habilidades, formações e cursos concluídos de forma simples e direta.
+## 📱 Responsive Design
+The resume is fully responsive, perfectly adjusting to smartphone screens like the iPhone 12, providing a pleasant experience on both mobile devices and desktops.
 
 ---
 
-## ✨ Inspiração
+### How It Works:
 
-Este projeto foi inspirado na simplicidade dos terminais de comando e na ideia de que menos é mais. Espero que você aprecie a nostalgia e a funcionalidade!
-
----
-
-Fique à vontade para clonar o projeto, fazer ajustes ou contribuir com melhorias!
+1. When you access the page, you will be greeted with a menu of options.
+2. Simply type the number or name of a section to navigate through the content.
+3. Explore my skills, education, and completed courses in a simple and direct manner.
 
 ---
 
-### 📧 Contato
-Se quiser entrar em contato comigo, visite minhas redes sociais:
+## ✨ Inspiration
+
+This project was inspired by the simplicity of command terminals and the idea that less is more. I hope you appreciate the nostalgia and functionality!
+
+---
+
+Feel free to clone the project, make adjustments, or contribute with improvements!
+
+---
+
+### 📧 Contact
+If you want to get in touch with me, visit my social networks:
 
 - [LinkedIn](https://www.linkedin.com/in/joao-ac-castro/)
 - [GitHub](https://github.com/joaoacastro)

@@ -57,6 +57,9 @@ footer {
     padding: 10px;     /* Opcional: espaço interno */
 }
 
+.img-small{
+    display: none;
+}
 /* Ajuste para iPhone 12 (390px x 844px - modo retrato) */
 @media only screen and (max-width: 390px) {
     body {
@@ -85,6 +88,12 @@ footer {
     footer {
         padding: 5px;
         font-size: 12px;
+    }
+    .img-large {
+        display: none;
+    }
+    .img-small {
+        display: block;
     }
 }
 
