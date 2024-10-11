@@ -1,27 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>.:Currículo Dinâmico João Antônio:.</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>.:Dynamic Resume João Antônio:.</title>
 
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="shortcut icon" href="src/favicon/resume-and-cv.png" type="image/x-icon">
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+
+    <!-- main style -->
+    <link rel="stylesheet" href="/src/styles/reset.css" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
     <div class="terminal">
-        <p><i>Currículo Dinâmico</i></p>
-        <div id="output" class="output">
-            <div id="menu" class="menu"></div>
-            <br>
-            <br>
-            <div id="content" class="content"></div>
-        </div>
-        <input type="text" id="input" class="input" placeholder="Digite sua escolha e pressione enter...">
+      
+      <div id="output" class="output">
+        <div id="menu" class="menu"></div>
+        <br />
+        <br />
+        <div id="content" class="content"></div>
+      </div>
+      
+      <div class="inputOption">
+          <input
+            type="text"
+            id="input"
+            class="input"
+            placeholder="Click on the option or type your choice and press enter..."
+          />
+      </div>
+
     </div>
 
-    <script src="script.js"></script>
-</body>
-<footer>
-    ..::developed by JAC::..
-</footer>
+    <script defer src="/src/script/main.js"></script>
+  </body>
+  <footer>
+    ..::developed by&nbsp
+    <a href="https://github.com/joaoacastro" target="_blank">JAC</a>::..
+  </footer>
 </html>
