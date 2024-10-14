@@ -45,6 +45,10 @@ body {
     justify-content: center;
 }
 
+.menu-item{
+    cursor: pointer;
+}
+
 /* Estilo do footer */
 footer {
     display: flex;
