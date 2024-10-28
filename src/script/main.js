@@ -106,7 +106,7 @@ const processarEscolha = (escolha) => {
     Bachelor's Degree in Systems Analysis and Development<br>
     Faculdade Anhembi Morumbi (1st Semester)<br><br>`;
   } else if (escolha === "5" || escolha.toLowerCase() === "languages") {
-    contentElement.innerHTML =`
+    contentElement.innerHTML = `
       "LANGUAGES:<br><br>
       - Portuguese: Native<br>
       - English: Intermediate<br>
@@ -158,8 +158,7 @@ const processarEscolha = (escolha) => {
                 <br>
                 `;
   } else if (escolha === "8" || escolha.toLowerCase() === "exit") {
-    contentElement.innerHTML =
-      `Leaving the program, thanks for the visit..
+    contentElement.innerHTML = `Leaving the program, thanks for the visit..
       <br><br>
       To return to the program, please refresh the page.<br>`;
 
